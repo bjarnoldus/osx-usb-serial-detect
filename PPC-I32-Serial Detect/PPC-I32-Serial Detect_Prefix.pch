@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'PPC-I32-Serial Detect' target in the 'PPC-I32-Serial Detect' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
