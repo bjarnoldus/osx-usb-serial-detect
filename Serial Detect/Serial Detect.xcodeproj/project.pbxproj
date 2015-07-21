@@ -430,6 +430,7 @@
 				904E23911A86130D00278FF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		904E23921A86130D00278FF1 /* Build configuration list for PBXNativeTarget "Serial DetectTests" */ = {
 			isa = XCConfigurationList;
@@ -438,6 +439,7 @@
 				904E23941A86130D00278FF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

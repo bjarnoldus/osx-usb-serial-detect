@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4E15B8AC-73AD-48B7-B5F0-8E97991D22AB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Serial Detect</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B59ACD64D2B6E3B3A6ACE603E8D5E45129C83C33</key>
+		<string>https://github.com/bjarnoldus/osx-usb-serial-detect.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Serial Detect/Serial Detect.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B59ACD64D2B6E3B3A6ACE603E8D5E45129C83C33</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bjarnoldus/osx-usb-serial-detect.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B59ACD64D2B6E3B3A6ACE603E8D5E45129C83C33</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B59ACD64D2B6E3B3A6ACE603E8D5E45129C83C33</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GITHUB-osx-usb-serial-detect</string>
+		</dict>
+	</array>
+</dict>
+</plist>
