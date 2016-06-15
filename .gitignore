@@ -1,4 +1,7 @@
+
+.DS_Store
 build*
+Serial\ Detect/Serial\ Detect.xcodeproj/project.xcworkspace/xcuserdata/*
 releases/OS X PL2303 CH340 CH341 HL-341 USB to Serial Detect for Driver V1.0 kopie.zip
 
 releases/OS X PL2303 CH340 CH341 HL-341 USB to Serial Detect for Driver V1.0/OSX-10.8+ Serial Detect.app/Contents/_CodeSignature/CodeResources
