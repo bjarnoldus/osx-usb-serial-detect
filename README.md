@@ -2,7 +2,7 @@
 <img src="https://mac-usb-serial.com/static/img/logo.png" alt="Mac USB Serial logo" title="Mac USB Serial" align="right" height="60" />
 </a>
 
-Mac OS X Serial Detect by  [www.mac-usb-serial.com](https://www.mac-usb-serial.com/)
+Mac OS X Serial Detect<br/>by  [www.mac-usb-serial.com](https://www.mac-usb-serial.com/)
 ==================================
 
 This application detects if you have connected Prolific PL2303 or Winchiphead HL-340, CH340 and CH341 USB to Serial chips to your Apple Mac OS X computer.
