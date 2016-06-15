@@ -11,3 +11,9 @@ releases*
 *.xccheckout
 
 *.xcuserstate
+
+*.pbxproj
+
+*.xcuserstate
+
+xcuserdata/
