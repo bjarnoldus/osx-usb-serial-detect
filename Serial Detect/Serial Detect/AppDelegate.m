@@ -225,6 +225,12 @@ static void staticDeviceRemoved (void *refCon, io_iterator_t iterator){
             return @"pl2303";
         }
     }
+    NSMutableArray *cp2102_personalities = [self getDevicePersonalities:@"cp2102"];
+    for(Personality *personality in cp2102_personalities){
+        if ([personality isEqual:pers]) {
+            return @"cp2102";
+        }
+    }
     return nil;
 }
 
@@ -254,7 +260,7 @@ objectValueForTableColumn:(NSTableColumn *)col
     } else {
         [obtainButton setEnabled:NO];
         
-        [detailLabel setStringValue:@"Please connect a USB to Serial device to your Mac. If the cable is supported, it will be listed in the table.\n\nIf you own a PL2303 or CH340 compatible device and is it not listed, please contact: support@mac-usb-serial.com"];
+        [detailLabel setStringValue:@"Please connect a USB to Serial device to your Mac. If the cable is supported, it will be listed in the table.\n\nIf you own a PL2303, CP2102 or CH340 compatible device and is it not listed, please contact: support@mac-usb-serial.com"];
 
     }
     return [deviceArray count];

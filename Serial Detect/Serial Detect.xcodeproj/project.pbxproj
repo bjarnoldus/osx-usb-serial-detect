@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		903F54142089D6D8003133E1 /* cp2102.plist in Resources */ = {isa = PBXBuildFile; fileRef = 903F54132089D6D8003133E1 /* cp2102.plist */; };
 		904E23791A86130D00278FF1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 904E23781A86130D00278FF1 /* AppDelegate.m */; };
 		904E237B1A86130D00278FF1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 904E237A1A86130D00278FF1 /* main.m */; };
 		904E237D1A86130D00278FF1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 904E237C1A86130D00278FF1 /* Images.xcassets */; };
@@ -29,6 +30,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		903F54132089D6D8003133E1 /* cp2102.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = cp2102.plist; sourceTree = "<group>"; };
 		904E23721A86130D00278FF1 /* Serial Detect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Serial Detect.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		904E23761A86130D00278FF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		904E23771A86130D00278FF1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 		904E23751A86130D00278FF1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				903F54132089D6D8003133E1 /* cp2102.plist */,
 				904E23A01A86BE0B00278FF1 /* detect-serial-app-logo.png */,
 				904E23971A8621F600278FF1 /* ch341.plist */,
 				904E23991A86228600278FF1 /* pl2303.plist */,
@@ -177,6 +180,7 @@
 					904E23711A86130D00278FF1 = {
 						CreatedOnToolsVersion = 6.1.1;
 						DevelopmentTeam = C3V2MXS8TG;
+						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.Sandbox = {
 								enabled = 1;
@@ -213,6 +217,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				903F54142089D6D8003133E1 /* cp2102.plist in Resources */,
 				904E237D1A86130D00278FF1 /* Images.xcassets in Resources */,
 				904E23801A86130D00278FF1 /* MainMenu.xib in Resources */,
 				904E23A11A86BE0B00278FF1 /* detect-serial-app-logo.png in Resources */,
